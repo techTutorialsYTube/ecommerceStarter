@@ -52,3 +52,8 @@ buck-out/
 # Expo
 .expo/
 web-build/
+
+android/app/google-services.json
+src/assets/files/stripe.json
+yarn.lock
+package-lock.json
